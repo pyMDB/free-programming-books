@@ -63,6 +63,7 @@
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
  ####Django
+* [The Django Book](http://www.djangobook.com/en/2.0/index.html) 
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
