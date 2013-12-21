@@ -55,6 +55,8 @@
 
 
  ####NoSql
+* [جنبش NoSQL](http://www.shabakeh-mag.com/Item.aspx?id=1000224) 
+* [Getting Started with MongoDB](http://docs.mongodb.org/manual/tutorial/getting-started/) 
 * [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
