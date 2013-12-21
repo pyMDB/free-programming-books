@@ -61,6 +61,7 @@
 * [The Little Riak Book](http://littleriakbook.com/)
 * [Graph Databases](http://graphdatabases.com/)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+
  ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
