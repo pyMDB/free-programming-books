@@ -4,6 +4,7 @@
  * [Python](#python)
  * [NoSQL](#nosql)
  * [Django](#django)
+ * [Ruby](#ruby)
  
  ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -71,3 +72,28 @@
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+ 
+
+ ####Ruby
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+* [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
+* [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
+* [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
+* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+* [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
+* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+* [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
+* [Ruby User's Guide](http://www.linuxtopia.org/online_books/programming_books/ruby_guide/)
+* [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
+* [Ruby Learning](http://rubylearning.com/)
+* [Try Ruby](http://tryruby.org/)
+* [Ruby Koans](http://www.rubykoans.com/)
+* [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
+* [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
+* [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
+* [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
