@@ -1,17 +1,15 @@
 ###Index
 
- * [Database](#database)
+
  * [Python](#python)
+ * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
  * [Ruby](#ruby)
  * [Ruby on Rails](#ruby-on-rails)
  * [PostgreSQL](#postgresql)
  
- ####Database
-* [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
-* [Foundations of Databases](http://webdam.inria.fr/Alice/)
-* [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+
 
  ####Python
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
@@ -55,6 +53,12 @@
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
+
+
+ ####Database
+* [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Foundations of Databases](http://webdam.inria.fr/Alice/)
+* [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 
  ####NoSql
