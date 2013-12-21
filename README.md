@@ -5,6 +5,8 @@
  * [NoSQL](#nosql)
  * [Django](#django)
  * [Ruby](#ruby)
+ * [Ruby on Rails](#ruby-on-rails)
+ * [PostgreSQL](#postgresql)
  
  ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -97,3 +99,18 @@
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
+
+
+###Ruby on Rails
+* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Objects on Rails](http://objectsonrails.com)
+* [Ruby on Rails Guides](http://guides.rubyonrails.org)
+* [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
+* [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
+* [Rails Girls Guides](http://guides.railsgirls.com)
+* [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
+* [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
+
+
+###PostgreSQL
+* [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
