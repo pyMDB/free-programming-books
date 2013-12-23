@@ -10,6 +10,7 @@
  * [Ruby](#ruby)
  * [Ruby on Rails](#ruby-on-rails)
  * [PostgreSQL](#postgresql)
+ * [Linux](#linux)
  
 
 
@@ -151,3 +152,26 @@
 
  ###PostgreSQL
 * [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
+
+ ###Linux
+* [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
+* [Getting Started with Ubuntu](http://ubuntu-manual.org/)
+* [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
+* [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
+* [The Debian Administrator's Handbook](http://debian-handbook.info/)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
+* [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
+* [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+* [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
+* [Programming and Using Linux Sound - in depth](http://jan.newmarch.name/LinuxSound/index.html)
+* [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
+* [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+* [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
+* [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
+* [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
+* [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
+* [Ubuntu Server Guide](https://help.ubuntu.com/13.10/serverguide/serverguide.pdf)
+* [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
+ 
