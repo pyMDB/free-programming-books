@@ -1,7 +1,9 @@
 ###Index
 
 
- * [Python](#python)    [Java](#java)   [C#](#csharp) 
+ * [Python](#python)   
+ * [Java](#java)  
+ * [C#](#csharp) 
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
