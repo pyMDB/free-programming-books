@@ -1,7 +1,7 @@
 ###Index
 
 
- * [Python](#python)    [Java](#java)
+ * [Python](#python)    [Java](#java)   [C#](#C#) 
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
@@ -82,7 +82,9 @@
 * [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 
-
+ ###C#
+* [C# Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming) 
+* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials) 
 
  ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
