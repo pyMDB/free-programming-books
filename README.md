@@ -105,7 +105,7 @@
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 
 
-###Ruby on Rails
+ ###Ruby on Rails
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
@@ -116,5 +116,5 @@
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 
 
-###PostgreSQL
+ ###PostgreSQL
 * [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
