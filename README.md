@@ -1,7 +1,8 @@
 ###Index
 
 
- * [Python](#python)   
+ * [Python](#python)  
+ * [5 دقیقه با پایتون]
  * [Java](#java)  
  * [C#](#csharp) 
  * [Database](#database)
