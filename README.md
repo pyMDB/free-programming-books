@@ -1,7 +1,7 @@
 ###Index
 
 
- * [Python](#python)   * [Java](#java)
+ * [Python](#python)    [Java](#java)
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
