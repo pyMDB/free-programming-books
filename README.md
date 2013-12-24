@@ -132,10 +132,8 @@
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
-  
 * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
- 
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
