@@ -6,7 +6,7 @@
  * [C#](#csharp) 
  * [C](#c)
  * [C++](#c-1)
- * [PHP](#PHP)
+ * [PHP](#php)
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
