@@ -2,6 +2,7 @@
 
 
  * [Python](#python)  
+     * [Django](#django)
  * [Java](#java)  
  * [C#](#csharp) 
  * [C](#c)
@@ -9,7 +10,6 @@
  * [PHP](#php)
  * [Database](#database)
  * [NoSQL](#nosql)
- * [Django](#django)
  * [Ruby](#ruby)
  * [Ruby on Rails](#ruby-on-rails)
  * [Perl](#perl)
