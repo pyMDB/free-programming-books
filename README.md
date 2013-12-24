@@ -5,7 +5,7 @@
  * [Java](#java)  
  * [C#](#csharp) 
  * [C](#c)
- * [C++](#c++)
+ * [C++](#c-1)
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
