@@ -6,6 +6,7 @@
  * [C#](#csharp) 
  * [C](#c)
  * [C++](#c-1)
+ * [PHP](#PHP)
  * [Database](#database)
  * [NoSQL](#nosql)
  * [Django](#django)
@@ -123,6 +124,30 @@
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+
+
+ ###PHP
+* [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
+* [PHP: The Right Way](http://www.phptherightway.com/)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
+* [Symfony2](http://symfony.com/doc/current/book/index.html)
+* [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
+* Laravel Framework
+    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+* Drupal Framework
+    * [High Performance Drupal](http://chimera.labs.oreilly.com/books/1230000000845) - Jeff Sheltren, Narayan Newton, and Nathaniel Catchpole
+
+    * Drupal 7
+        * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+        * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
+    * Drupal 8
+* [PHP Internals Book](http://www.phpinternalsbook.com/)
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
+* [PHP with Guru99](http://www.smashwords.com/books/view/324888)
+* [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
+
 
 
  ####Database
