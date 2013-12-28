@@ -166,6 +166,7 @@
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+* [Django:Getting started](http://pythoni.ca/fa/wiki/index.php?title=Django:Getting_started)
  
 
  ####Ruby
